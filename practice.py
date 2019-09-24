@@ -1,1 +1,1 @@
-letters = ('c','b','d
+letters = ('c','b','d'
