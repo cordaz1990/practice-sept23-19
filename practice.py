@@ -1,2 +1,2 @@
 letters = ('c','b','d')
-new_letters = ('a',) + le
+new_letters = ('a',) + let
