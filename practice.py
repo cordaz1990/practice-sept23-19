@@ -1,2 +1,2 @@
 letters = ('c','b','d')
-new_letters = ('a',) + lett
+new_letters = ('a',) + lette
