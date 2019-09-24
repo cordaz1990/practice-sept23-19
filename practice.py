@@ -1,2 +1,2 @@
 letters = ('c','b','d')
-new_letters = ('a',) + letter
+new_letters = ('a',) + letters
